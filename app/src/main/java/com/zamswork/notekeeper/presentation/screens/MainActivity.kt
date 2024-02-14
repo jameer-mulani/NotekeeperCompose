@@ -1,4 +1,4 @@
-package com.zamswork.notekeeper
+package com.zamswork.notekeeper.presentation.screens
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -21,7 +21,9 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.sp
 import com.zamswork.notekeeper.ui.theme.NoteKeeperTheme
 
 class MainActivity : ComponentActivity() {
@@ -35,7 +37,6 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
 
-                    
                 }
             }
         }
