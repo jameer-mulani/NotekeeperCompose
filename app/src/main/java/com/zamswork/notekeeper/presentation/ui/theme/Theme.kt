@@ -1,4 +1,4 @@
-package com.zamswork.notekeeper.ui.theme
+package com.zamswork.notekeeper.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

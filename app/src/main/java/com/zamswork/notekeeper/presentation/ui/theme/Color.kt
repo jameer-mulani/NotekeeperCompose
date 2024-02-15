@@ -1,4 +1,4 @@
-package com.zamswork.notekeeper.ui.theme
+package com.zamswork.notekeeper.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
